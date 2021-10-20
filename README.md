@@ -36,8 +36,10 @@ __Marked list:__
 
 
 __Task list:__
-[x] Done
-[ ] Undone or not done
+
+- [x] Done
+- [] Undone
+- [x] Done
 
 ***
 
