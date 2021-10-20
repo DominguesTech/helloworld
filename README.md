@@ -54,10 +54,13 @@ Number | Name | Note
 
 
 
+
 __emoji example:__
+
 🤑
 
 :emojisnamehere:
+
 
 
 
@@ -71,19 +74,23 @@ __quote and tag people:__
 
 
 
+
 > Topic style example
 > See right here
 
 
+` example ` --> back and after backs symbolize a line code
 
+`
 name = int(input('What is your name?: '))
 print('Prazer em conhecê-lo, {}!' .format(name))
-
+`
 
 
 
 ***
 ***
+
 
 [ Go to my GitHub this way ;) ](https://github.com/DominguesTech)
 
