@@ -2,6 +2,8 @@
 ## Medium Size Title
 ### Low Size Title
 
+***
+
 **It's a bold font example.**
 __It's a bold font example.__
 
@@ -39,12 +41,6 @@ __Task list:__
 
 ***
 
-[ Go to my GitHub this way ;) ](https://github.com/DominguesTech)
-![ Myself :) ](https://user-images.githubusercontent.com/83507675/138041855-40dd0a7c-90ff-40f8-859c-ca682d0f663e.jpeg)
-
-
-
-
 __Table:__
 
 Number | Name | Note
@@ -77,3 +73,19 @@ __quote and tag people:__
 
 > Topic style example
 > See right here
+
+
+
+name = int(input('What is your name?: '))
+print('Prazer em conhecê-lo, {}!' .format(name))
+
+
+
+
+***
+***
+
+[ Go to my GitHub this way ;) ](https://github.com/DominguesTech)
+
+![ Myself :) ](https://user-images.githubusercontent.com/83507675/138041855-40dd0a7c-90ff-40f8-859c-ca682d0f663e.jpeg)
+
